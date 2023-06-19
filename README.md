@@ -1,16 +1,24 @@
-# kheti
+<h1 align="center">Kheti</h1>
 
-A new Flutter project.
+<p align="center">
+  <img src="marketplace-logo.png" alt="Marketplace Logo">
+</p>
 
-## Getting Started
+<p align="center">A digital marketplace developed for farmers to procure seeds from local vendors based on their location. Farmers also receive crop recommendations tailored to their specific location.</p>
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Seamless digital marketplace for farmers to purchase seeds from local vendors.
+- Location-based vendor selection to ensure proximity and ease of delivery.
+- Crop recommendation system based on the farmer's specific location and requirements.
+- Secure payment options for hassle-free transactions.
+- User-friendly interface for easy navigation and intuitive seed selection.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/your/repository.git
+
+   
